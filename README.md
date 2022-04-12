@@ -1,2 +1,2 @@
-# pdsa-c-
+# pdsa-cpp
 Basic programming
