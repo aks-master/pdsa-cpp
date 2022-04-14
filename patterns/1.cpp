@@ -13,10 +13,10 @@ n=5
 using namespace std;
 int main()
 {
-    int n;
-    cin >> n;
-    int spaces = n - 1;
-    for (int i = 1; i <= n; i++)
+    int number_of_rows;
+    cin >> number_of_rows;
+    int spaces = number_of_rows - 1;
+    for (int i = 1; i <= number_of_rows; i++)
     {
         // print spaces
         for (int j = 1; j <= spaces; j++)
